@@ -1,0 +1,32 @@
+.modalDiv{
+    display: inline-block !important;
+    position: absolute !important;
+    z-index: 999;
+    max-width: 18rem;
+    top:30%;
+    left:30%;
+}
+.center{
+    text-align: center;
+}
+.center{
+    text-align: right;
+}
+.button{
+    cursor: pointer;
+}
+.card-header{
+ padding: 5px !important;   
+}
+.float-right{
+    float: right;
+}
+.card-header:first-child{
+    border: 0px;
+}
+.modal-padding{
+    padding: 5px !important;
+}
+.btn-padding-5{
+padding: 5px !important
+}
